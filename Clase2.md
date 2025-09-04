@@ -1,4 +1,4 @@
-# Ctisthian alexander zambrano
+# Cristhian alexander zambrano
 
 
 
@@ -69,6 +69,7 @@ luego entramos a la carpeta con
 cd nombrecarpeta
 luego usamos 
 > sudo docker-compose up -d
+NOTA:para usar docker actual se puede ejecutar sin el guion
 
 para ver los contenedores que estamos corriendo es con el siguiente comando
 > sudo docker container ls
