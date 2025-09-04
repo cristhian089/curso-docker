@@ -85,7 +85,7 @@ para confirmar que este habilitado le damos con el siguiente comando
 > sudo systemctl status docker
 
 el siguiente comando va a modificar el usuario lo va a agregar al grupo de docker al grupo secundario
-> sudo usermod –aG docker cristhian
+> sudo usermod -aG docker cristhian
 
 luego de este comando le damos el siguiente 
 > sudo systemctl restart docker
